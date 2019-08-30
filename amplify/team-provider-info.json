@@ -1,0 +1,14 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "bookapp-master-20190830100129-authRole",
+            "UnauthRoleArn": "arn:aws:iam::733085877727:role/bookapp-master-20190830100129-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::733085877727:role/bookapp-master-20190830100129-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "bookapp-master-20190830100129-deployment",
+            "UnauthRoleName": "bookapp-master-20190830100129-unauthRole",
+            "StackName": "bookapp-master-20190830100129",
+            "StackId": "arn:aws:cloudformation:us-east-1:733085877727:stack/bookapp-master-20190830100129/aaf66780-cb2e-11e9-a468-0eaa79b17470"
+        }
+    }
+}
